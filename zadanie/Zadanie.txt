@@ -3,4 +3,4 @@ Jesteś data scientist który otrzymał tygodniowe dane sprzedażowe  dla 4 bran
 - Zidentyfikuj błędy w danych by zgłosić je do biznesu
 - Napraw błędy tak jak możesz najlepiej, przedstaw graf historii sprzedaży z 3 lat
 - Określ komponent sezonowy (średnią z 3 lat w tych samych tygodniach każdego roku) i rozpiętość tej sezonowości
-- Określ które punkty sprzedaży po usunięciu sezonowości są odległe o 1 odchylenie standardowe (funkcja std())
+- Określ które punkty sprzedaży po usunięciu sezonowości są odległe o odpowiednio 1,2 i 3 odchylenia standardowe (funkcja std()) od średniej
